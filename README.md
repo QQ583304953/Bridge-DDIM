@@ -8,6 +8,7 @@ Wanshi Antecedence Digital Intelligence Traffic Technology Co., Ltd, Nanjing, 21
 
 Abstract：Use denoising diffusion implicit model for bridge-type innovation. The process of adding noise and denoising to an image can be likened to the process of a corpse rotting and a detective restoring the scene of a victim being killed, to help beginners understand. Through an easy-to-understand algebraic method, derive the function formulas for adding noise and denoising, making it easier for beginners to master the mathematical principles of the model. Using symmetric structured image dataset of three-span beam bridge, arch bridge, cable-stayed bridge and suspension bridge , based on Python programming language, TensorFlow and Keras deep learning platform framework , denoising diffusion implicit model is constructed and trained. From the latent space sampling, new bridge types with asymmetric structures can be generated. Denoising diffusion implicit model can organically combine different structural components on the basis of human original bridge types, and create new bridge types.
 Keywords: generative artificial intelligence; bridge-type innovation; diffusion model; latent space; deep learning
+
 Based on the Python3.10, TensorFlow2.10, and Keras2.10
 
 从去噪扩散隐式模型隐空间中生成新桥型的尝试
