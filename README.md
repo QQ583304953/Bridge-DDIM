@@ -11,6 +11,8 @@ Keywords: generative artificial intelligence; bridge-type innovation; diffusion 
 
 Based on the Python3.10, TensorFlow2.10, and Keras2.10
 
+http://arxiv.org/abs/2402.07129
+
 从去噪扩散隐式模型隐空间中生成新桥型的尝试
 
 张洪俊
